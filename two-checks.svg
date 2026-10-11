@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="t d" font-family="Poppins,Segoe UI,Helvetica,Arial,sans-serif">
+<title id="t">Two checks that choose the Android package</title>
+<desc id="d">Two separate questions decide the Android package. The first is the processor architecture: standard or ARM32. The second is the installed Roblox edition: global or VNG. Passing one check says nothing about the other.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050508"/><stop offset=".48" stop-color="#0b0e0f"/><stop offset="1" stop-color="#223178"/></linearGradient></defs>
+<rect width="1200" height="360" rx="16" fill="url(#g)"/>
+<text x="48" y="58" font-size="15" font-weight="700" letter-spacing="2" fill="#60a5fa">TWO SEPARATE CHECKS</text>
+<rect x="48" y="92" width="530" height="220" rx="14" fill="#101827" stroke="#29334c" stroke-width="2"/>
+<circle cx="94" cy="138" r="22" fill="none" stroke="#60a5fa" stroke-width="3"/><text x="94" y="146" text-anchor="middle" font-size="21" font-weight="700" fill="#60a5fa">1</text>
+<text x="132" y="147" font-size="24" font-weight="700" fill="#f7f9ff">Processor architecture</text>
+<rect x="76" y="186" width="474" height="42" rx="9" fill="#0b0e0f" stroke="#29334c" stroke-width="1.5"/>
+<text x="94" y="213" font-size="17" fill="#dbe4f2">Standard build</text>
+<rect x="76" y="240" width="474" height="42" rx="9" fill="#0b0e0f" stroke="#29334c" stroke-width="1.5"/>
+<text x="94" y="267" font-size="17" fill="#dbe4f2">ARM32 (32-bit) build</text>
+<rect x="622" y="92" width="530" height="220" rx="14" fill="#101827" stroke="#29334c" stroke-width="2"/>
+<circle cx="668" cy="138" r="22" fill="none" stroke="#f5d08a" stroke-width="3"/><text x="668" y="146" text-anchor="middle" font-size="21" font-weight="700" fill="#f5d08a">2</text>
+<text x="706" y="147" font-size="24" font-weight="700" fill="#f7f9ff">Installed Roblox edition</text>
+<rect x="650" y="186" width="474" height="42" rx="9" fill="#0b0e0f" stroke="#29334c" stroke-width="1.5"/>
+<text x="668" y="213" font-size="17" fill="#dbe4f2">Global: com.roblox.client</text>
+<rect x="650" y="240" width="474" height="42" rx="9" fill="#0b0e0f" stroke="#29334c" stroke-width="1.5"/>
+<text x="668" y="267" font-size="17" fill="#dbe4f2">VNG: com.roblox.client.vnggames</text>
+</svg>
